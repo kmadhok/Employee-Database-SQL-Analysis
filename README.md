@@ -5,7 +5,7 @@ ERD Diagram contains proper relation between the 6 CSV files in this repository.
 ## Data Modeling
 ![ERD](employeeSQL/ERD.png)
 
-##Data Analysis
+## Data Analysis
 
 Performed the following queries for data analysis purposes:
   List the following details of each employee: employee number, last name, first name, sex, and salary.
